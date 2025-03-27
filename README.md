@@ -1,0 +1,1 @@
+This calculator calculates bonds, simple and compound investments.
